@@ -1,6 +1,10 @@
 team: Tigers
 
+<<<<<<< HEAD
 manager: Brenda
+=======
+manager: Kenneth
+>>>>>>> 4a546a3 (Edit Tigers members)
 
 coach: Ruth
 
@@ -9,3 +13,4 @@ members:
   - William
   - David
   - George
+  - Tyler 
